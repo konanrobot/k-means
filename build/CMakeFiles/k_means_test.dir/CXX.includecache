@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/exbot/Documents/k-means-master/k-means.cpp
+stdlib.h
+-
+math.h
+-
+time.h
+-
+iostream
+-
+k-means.h
+/home/exbot/Documents/k-means-master/k-means.h
+
+/home/exbot/Documents/k-means-master/k-means.h
+fstream
+-
+
+/home/exbot/Documents/k-means-master/main.cpp
+iostream
+-
+k-means.h
+/home/exbot/Documents/k-means-master/k-means.h
+

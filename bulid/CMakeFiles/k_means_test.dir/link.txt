@@ -1,0 +1,1 @@
+/usr/local/bin/c++       CMakeFiles/k_means_test.dir/main.cpp.o CMakeFiles/k_means_test.dir/k-means.cpp.o  -o ../bin/k_means_test -rdynamic 
